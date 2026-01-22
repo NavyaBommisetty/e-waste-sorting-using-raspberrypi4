@@ -54,7 +54,7 @@ source venv/bin/activate
 Clone Repository & Upload Dataset
 
 Clone this repository:
-git clone <your-repo-link>
+git clone <https://github.com/NavyaBommisetty/e-waste-sorting-using-raspberrypi4>
 cd E-Waste-Detection
 
 Add your custom Roboflow-trained dataset:
